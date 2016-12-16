@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    border: nones;
+    background-image: url(images/Website%20header.jpg);
+    color:floralwhite;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family: Impact;
+    font-size: 40px
+}
+body{
+    background-image: url(images/stevenisbetterthanabibyabajillion.jpg);
+    background-size:auto
+}
+images/stevenisbetterthanabibyabajillion{
+    width: 100%;
+    height: auto;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-family: Impact;
+    color: aqua;
+}
+h3{
+    color: white;
+    margin-left: 175px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+h4{
+    margin-left: 160px;
+    margin-right: 160px;
+    color: white;
+}
+img{
+    position: absolute;
+  
+    z-index: -1;
+    margin-left: 150px;
+    margin-top: 200px;
+    margin-right: 150px;
+}
